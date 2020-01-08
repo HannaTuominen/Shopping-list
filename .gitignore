@@ -1,0 +1,6 @@
+.vscode/
+target/
+.settings/
+.classpath
+.project
+shoppinglistgui-1.0-SNAPSHOT/
